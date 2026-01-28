@@ -4,8 +4,10 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-# url:                   https://acscc.github.io
+url:                   https://mromerot.github.io
 
+# IMPORTANT: Set The "base URL" of your site.
+baseurl:               /plataforma-nacional
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
