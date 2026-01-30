@@ -33,6 +33,9 @@ keywords:              []
 # It also used by the `jekyll-seo-tag` plugin.
 logo:                  /assets/UNGRD-Vertical.png
 
+# Used for Open Graph image (social media previews)
+image:                 /assets/UNGRD-Vertical.png
+
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                Unidad Nacional para la Gestión del Riesgo de Desastres
