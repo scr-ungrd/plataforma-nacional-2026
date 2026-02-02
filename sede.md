@@ -1,12 +1,12 @@
 ---
 layout: page
-title:  Sede
+title:  Sede y fechas
 ---
 
-TLorem markdownum Boreas, nam quidem altera causas ospf_transistor aderat praeponere muneris veloxque ferenti a fateri tenet esse, haustus domum. Est Perseu digitorum et utque biformis dantem repetens spolioque parvos? Bacchi requirens finire; de visi umorque; supponas posuere tenet, a viscera veniam dumque Cydoneasque lenta.
+La Plataforma se realizará entre el **20 y el 23 de mayo** de 2026, en Bogotá, D.C. Colombia.
 
-[![Bogota](https://bogota.gov.co/sites/default/files/styles/despliegue_1280x720_px/public/inline-images/parque-simon-bolivar-de-bogota_-planes-y-actividades-para-disfrutar-ii.png "Bogota")](https://bogota.gov.co/sites/default/files/styles/despliegue_1280x720_px/public/inline-images/parque-simon-bolivar-de-bogota_-planes-y-actividades-para-disfrutar-ii.png "Bogota")
+**Lugar**: por definir.
 
-TLorem markdownum Boreas, nam quidem altera causas ospf_transistor aderat praeponere muneris veloxque ferenti a fateri tenet esse, haustus domum. Est Perseu digitorum et utque biformis dantem repetens spolioque parvos? Bacchi requirens finire; de visi umorque; supponas posuere tenet, a viscera veniam dumque Cydoneasque lenta.
+Todos los detalles sobre la sede del evento se comunicarán cuando estén disponibles.
 
-
+[![Bogota, D.C. Fuente [bogota.gov.co](https://bogota.gov.co/sites/default/files/styles/despliegue_1280x720_px/public/inline-images/parque-simon-bolivar-de-bogota_-planes-y-actividades-para-disfrutar-ii.png)](https://bogota.gov.co/sites/default/files/styles/despliegue_1280x720_px/public/inline-images/parque-simon-bolivar-de-bogota_-planes-y-actividades-para-disfrutar-ii.png "Bogota")](https://bogota.gov.co/sites/default/files/styles/despliegue_1280x720_px/public/inline-images/parque-simon-bolivar-de-bogota_-planes-y-actividades-para-disfrutar-ii.png)

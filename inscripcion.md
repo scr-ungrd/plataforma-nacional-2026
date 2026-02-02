@@ -1,12 +1,14 @@
 ---
 layout: page
-title:  Inscripcion
+title:  Inscripcion al evento
 ---
 
-TLorem markdownum Boreas, nam quidem altera causas ospf_transistor aderat praeponere muneris veloxque ferenti a fateri tenet esse, haustus domum. Est Perseu digitorum et utque biformis dantem repetens spolioque parvos? Bacchi requirens finire; de visi umorque; supponas posuere tenet, a viscera veniam dumque Cydoneasque lenta
+## Inscripción al evento
 
-TLorem markdownum Boreas, nam quidem altera causas ospf_transistor aderat praeponere muneris veloxque ferenti a fateri tenet esse, haustus domum. Est Perseu digitorum et utque biformis dantem repetens spolioque parvos? Bacchi requirens finire; de visi umorque; supponas posuere tenet, a viscera veniam dumque Cydoneasque lenta
+Se espera la participación de todos los actores del Sistema Nacional de Gestión del Riesgo de Desastres.
 
-TLorem markdownum Boreas, nam quidem altera causas ospf_transistor aderat praeponere muneris veloxque ferenti a fateri tenet esse, haustus domum. Est Perseu digitorum et utque biformis dantem repetens spolioque parvos? Bacchi requirens finire; de visi umorque; supponas posuere tenet, a viscera veniam dumque Cydoneasque lenta
+Para expresar interés en asistir, por favor diligencie el siguiente formulario:
+________________________________
+________________________________
 
-TLorem markdownum Boreas, nam quidem altera causas ospf_transistor aderat praeponere muneris veloxque ferenti a fateri tenet esse, haustus domum. Est Perseu digitorum et utque biformis dantem repetens spolioque parvos? Bacchi requirens finire; de visi umorque; supponas posuere tenet, a viscera veniam dumque Cydoneasque lenta
+El evento estará abierto a cualquier ciudadana y ciudadano colombiano.

@@ -54,15 +54,15 @@ author:
 menu:
   - title: Sobre la Plataforma
     url: /acerca/
-  - title: Sede
+  - title: Sede y fechas
     url:   /sede/
+  - title: Enfoques de sesiones
+    url:   /sesiones/
   - title: Inscripción
-    url: /inscripcion/
-  - title: Postulación de sesiones
-    url:   /postulacion/
+    url: /inscripcion/    
   - title: Programa
     url:   /programa/
-  - title: Comités
+  - title: Comités organizadores
     url:   /comites/
   - title: Contacto
     url:   /contacto/
